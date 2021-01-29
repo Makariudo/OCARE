@@ -1,4 +1,4 @@
-## Notre projet
+## Ocare
 
 Les infirmiers libéraux doivent s’occuper de patients 365 jours par an.
 Pour qu’il n’y ait pas de discontinuité dans le soin mais que les infirmiers puissent avoir des jours de repos, ils s’organisent en équipe, regroupés au sein d’un cabinet. 
