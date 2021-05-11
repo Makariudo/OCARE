@@ -1,4 +1,20 @@
-## Ocare
+# Ocare 
+
+## Application Web pour les infimiers libéraux
+
+![Ocare image](./Ocare.PNG "Ocare dashboard")
+
+## Tech
+
+  - react
+  - redux
+  - sass
+  - sqitch
+  - express
+  - postgres
+  - heroku
+
+## Pourquoi ?
 
 Les infirmiers libéraux doivent s’occuper de patients 365 jours par an.
 Pour qu’il n’y ait pas de discontinuité dans le soin mais que les infirmiers puissent avoir des jours de repos, ils s’organisent en équipe, regroupés au sein d’un cabinet. 
@@ -20,3 +36,5 @@ Le cabinet disposera donc du droit d’inviter des infirmiers à composer son st
 De son côté, chaque infirmier peut travailler dans plusieurs cabinets.
 Il lui sera donc possible après création de son profil de rejoindre un ou plusieurs cabinets. 
 En sélectionnant un cabinet il aura accès à un dashboard reprenant les transmissions, les tournées et les patients de ce cabinet.
+
+
